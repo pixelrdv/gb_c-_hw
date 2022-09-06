@@ -1,0 +1,15 @@
+C:\pogum\study\gb\c#\examples\example007_magic\bin\Debug\net6.0\example007_magic.exe
+C:\pogum\study\gb\c#\examples\example007_magic\bin\Debug\net6.0\example007_magic.deps.json
+C:\pogum\study\gb\c#\examples\example007_magic\bin\Debug\net6.0\example007_magic.runtimeconfig.json
+C:\pogum\study\gb\c#\examples\example007_magic\bin\Debug\net6.0\example007_magic.dll
+C:\pogum\study\gb\c#\examples\example007_magic\bin\Debug\net6.0\example007_magic.pdb
+C:\pogum\study\gb\c#\examples\example007_magic\obj\Debug\net6.0\example007_magic.csproj.AssemblyReference.cache
+C:\pogum\study\gb\c#\examples\example007_magic\obj\Debug\net6.0\example007_magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\pogum\study\gb\c#\examples\example007_magic\obj\Debug\net6.0\example007_magic.AssemblyInfoInputs.cache
+C:\pogum\study\gb\c#\examples\example007_magic\obj\Debug\net6.0\example007_magic.AssemblyInfo.cs
+C:\pogum\study\gb\c#\examples\example007_magic\obj\Debug\net6.0\example007_magic.csproj.CoreCompileInputs.cache
+C:\pogum\study\gb\c#\examples\example007_magic\obj\Debug\net6.0\example007_magic.dll
+C:\pogum\study\gb\c#\examples\example007_magic\obj\Debug\net6.0\refint\example007_magic.dll
+C:\pogum\study\gb\c#\examples\example007_magic\obj\Debug\net6.0\example007_magic.pdb
+C:\pogum\study\gb\c#\examples\example007_magic\obj\Debug\net6.0\example007_magic.genruntimeconfig.cache
+C:\pogum\study\gb\c#\examples\example007_magic\obj\Debug\net6.0\ref\example007_magic.dll

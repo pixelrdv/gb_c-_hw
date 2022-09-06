@@ -1,0 +1,15 @@
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\bin\Debug\net6.0\HomeWork_1.2.exe
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\bin\Debug\net6.0\HomeWork_1.2.deps.json
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\bin\Debug\net6.0\HomeWork_1.2.runtimeconfig.json
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\bin\Debug\net6.0\HomeWork_1.2.dll
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\bin\Debug\net6.0\HomeWork_1.2.pdb
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\obj\Debug\net6.0\HomeWork_1.2.csproj.AssemblyReference.cache
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\obj\Debug\net6.0\HomeWork_1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\obj\Debug\net6.0\HomeWork_1.2.AssemblyInfoInputs.cache
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\obj\Debug\net6.0\HomeWork_1.2.AssemblyInfo.cs
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\obj\Debug\net6.0\HomeWork_1.2.csproj.CoreCompileInputs.cache
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\obj\Debug\net6.0\HomeWork_1.2.dll
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\obj\Debug\net6.0\refint\HomeWork_1.2.dll
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\obj\Debug\net6.0\HomeWork_1.2.pdb
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\obj\Debug\net6.0\HomeWork_1.2.genruntimeconfig.cache
+C:\pogum\study\gb\c#\hw\HomeWork_1.2\obj\Debug\net6.0\ref\HomeWork_1.2.dll

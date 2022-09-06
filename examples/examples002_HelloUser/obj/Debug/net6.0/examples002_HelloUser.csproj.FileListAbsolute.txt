@@ -1,0 +1,15 @@
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\bin\Debug\net6.0\examples002_HelloUser.exe
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\bin\Debug\net6.0\examples002_HelloUser.deps.json
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\bin\Debug\net6.0\examples002_HelloUser.runtimeconfig.json
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\bin\Debug\net6.0\examples002_HelloUser.dll
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\bin\Debug\net6.0\examples002_HelloUser.pdb
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\obj\Debug\net6.0\examples002_HelloUser.csproj.AssemblyReference.cache
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\obj\Debug\net6.0\examples002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\obj\Debug\net6.0\examples002_HelloUser.AssemblyInfoInputs.cache
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\obj\Debug\net6.0\examples002_HelloUser.AssemblyInfo.cs
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\obj\Debug\net6.0\examples002_HelloUser.csproj.CoreCompileInputs.cache
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\obj\Debug\net6.0\examples002_HelloUser.dll
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\obj\Debug\net6.0\refint\examples002_HelloUser.dll
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\obj\Debug\net6.0\examples002_HelloUser.pdb
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\obj\Debug\net6.0\examples002_HelloUser.genruntimeconfig.cache
+C:\pogum\study\gb\c#\examples\examples002_HelloUser\obj\Debug\net6.0\ref\examples002_HelloUser.dll
